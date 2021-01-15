@@ -14,4 +14,4 @@ chicago.csv <Br>
 new_york_city <Br>
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Inspired by the Udacity Class "Programming with Python for Datascience"
