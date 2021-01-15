@@ -5,7 +5,7 @@
 Analysis of US Bikeshare Market
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare.py allows users to perform analysis of the US bikeshare market in different cities by answering questions.
 
 ### Files used
 Include the files used
