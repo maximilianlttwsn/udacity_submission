@@ -207,10 +207,10 @@ def raw_data(df):
     linecount = 1
 
     while True:
-        want_raw = input("If you would like to see 5 lines of raw data, please answer yes or no").lower()
+        want_raw = input("If you would like to see 3 lines of raw data, please answer yes or no").lower()
         if want_raw == 'yes':
-            print(df[linecount:(linecount+5)])
-            linecount = linecount + 5
+            print(df[linecount:(linecount+3)])
+            linecount = linecount + 3
         else:
             break
 
