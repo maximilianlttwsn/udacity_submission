@@ -8,7 +8,10 @@ Analysis of US Bikeshare Market
 Bikeshare.py allows users to perform analysis of the US bikeshare market in different cities by answering questions.
 
 ### Files used
-Include the files used
+bikeshare.py <Br>
+washington.csv <Br>
+chicago.csv <Br>
+new_york_city <Br>
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
