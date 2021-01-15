@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+15.01.2021
 
 ### Project Title
-Replace the Project Title
+Analysis of US Bikeshare Market
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare.py allows users to perform analysis of the US bikeshare market in different cities by answering questions.
+
+### Cities available for Analysis
+New York City <Br>
+Washington <Br>
+Chicago <Br>
 
 ### Files used
-Include the files used
+bikeshare.py <Br>
+washington.csv <Br>
+chicago.csv <Br>
+new_york_city <Br>
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Inspired by the Udacity Class "Programming with Python for Datascience"
