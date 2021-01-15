@@ -24,7 +24,7 @@ def get_filters():
     while city not in valid_cities:
         city = input("For which City would you like to see the data. Data is available for Chicago, New York City, Washington: ").lower()
         if city not in valid_cities:
-            print("Sorry, {} is not a valid input. Please enter Chicago, New York City or Washington".format(city))
+            print("Sorry, {} is currently not available for analysis. Please enter Chicago, New York City or Washington".format(city))
         else:
             print("Okay, we will show you the data for {}".format(city.title()))
             break
